@@ -10,7 +10,7 @@ setup(
     name="arranjo_combinacao",
     version="0.0.1",
     author="daniel_paes",
-    author_email="my_email",
+    author_email="daniel92.dev@gmail.com",
     description="Cálculo simples de arranjo e combinação",
     long_description=page_description,
     long_description_content_type="text/markdown",
