@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="arranjo_combinacao",
-    version="0.0.1",
+    version="0.0.2",
     author="daniel_paes",
     author_email="daniel92.dev@gmail.com",
     description="Cálculo simples de arranjo e combinação",
